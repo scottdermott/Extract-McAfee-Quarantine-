@@ -1,4 +1,4 @@
-# Extract-McAfee-Quarantine-
+# Extract-McAfee-Quarantine
 Extract meta data from McAfee Quarantine XOR'd files
 7z Used for .bup extract
 - xor.exe used to decrypt the contents of the extracted bup (details and File_0)
